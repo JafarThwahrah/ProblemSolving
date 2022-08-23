@@ -160,7 +160,7 @@ function matchMonth(Str){
 }
 
 
-console.log(matchMonth("Jafar"))
+console.log(matchMonth("Oct"))
 
 
 
